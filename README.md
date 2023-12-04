@@ -55,3 +55,5 @@
 **Obrigado por Visitar!**
 
 Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
+
+![Snake animation]() 
