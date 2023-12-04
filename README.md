@@ -56,3 +56,8 @@
 
 Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
 
+<p align="center">
+
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fwd5qnbuxh4xoj6ao65edjl5km&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank"></a>
+</p>
