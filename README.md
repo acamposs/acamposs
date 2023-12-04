@@ -32,9 +32,9 @@
 
   <a href="#" title="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/acamposs" alt="Github"/></a>
-
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/campossamanda/?hl=pt-brv" alt="Instagram"/></a>
+  
+  <a href="https://www.instagram.com/campossamanda" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 **Obrigado por Visitar!**
