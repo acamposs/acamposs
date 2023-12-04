@@ -1,20 +1,21 @@
 
-### Olá, eu sou a Amanda Campos! 🤍
+## Olá, eu sou a Amanda Campos! 🤍
 
  Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma entusiasta da tecnologia apaixonada por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
 
-**Sobre Mim**
+### **Sobre Mim**
 
 - 😊 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia** na Universidade de Brasília.
 - 💼 Trabalhando com Inteligência Artificial no AIlAB
 - 🌱 &nbsp; Aprendendo mais sobre **ETL (Extract, Transform, Load),Machine leraning e tecnologias de desenvolvimento de front-end como distração**.
 
-**Habilidades**
+### **Habilidades**
 
 - 💻 Linguagens: Python, Java, HTML, CSS.
 - 🛠️ Tecnologias: [Liste aqui as tecnologias com as quais você trabalha].
 - 🌐 Web: [Frameworks, bibliotecas e ferramentas para desenvolvimento web].
+
 
 <p align="center">
   <a href="#" title="stats">
