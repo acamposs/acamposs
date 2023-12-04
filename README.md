@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto: amanda.acampos2000@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:amanda.acampos2000@gmail.com" alt="Gmail"/></a>
 
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-acampos/" alt="LinkedIn"/></a>
