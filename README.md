@@ -8,18 +8,24 @@
 </p>
 
 ### **Sobre Mim**
+
 <p align="left">
- 😊 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
- 🎓 Estudando <strong>Engenharia</strong>strong> na Universidade de Brasília.<br>
- 💼 Trabalhando com Inteligência Artificial no AIlAB<br>
- 🌱 &nbsp; Aprendendo mais sobre **ETL (Extract, Transform, Load),Machine leraning e tecnologias de desenvolvimento de front-end como distração**.
+ 😊 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+ 🎓 &nbsp;Estudando <strong>Engenharia</strong> na Universidade de Brasília.<br>
+ 💼 &nbsp;Trabalhando com Inteligência Artificial no AILAB<br>
+ 🌱 &nbsp;Aprendendo mais sobre: <strong>ETL (Extract, Transform, Load), Machine learning e Data Science</strong>
  </p>
+ 
 ### **Habilidades**
 
-- 💻 Linguagens: Python, Java, HTML, CSS.
-- 🛠️ Tecnologias: [Liste aqui as tecnologias com as quais você trabalha].
-- 🌐 Web: [Frameworks, bibliotecas e ferramentas para desenvolvimento web].
+<p align="left">
+💻 &nbsp; Linguagens: Python, Java, HTML, CSS.<br>
+🛠️ &nbsp; Tecnologias: mySQL, rabbitMQ, MLflow, Maven, Docker.<br>
+🌐 &nbsp; Machine learning: Scikit-learn (Python), XGBoost (Python/R/Java), LightGBM (Python/R/Java), Kaggle (plataforma legal para cientistas de dados :) )
 
+ </p>
+ 
+<p>&nbsp;</p>
 
 <p align="center">
   <a href="#" title="stats">
@@ -28,6 +34,8 @@
   <a href="#" title="liguages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula" alt="card linguagens"/></a>
 </p>
+
+<p>&nbsp;</p>
 
 <p align="center">
  
