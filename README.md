@@ -1,34 +1,44 @@
-# Olá, Mundo! 👋
 
-Bem-vindo ao meu cantinho no GitHub! Sou [Seu Nome], um(a) entusiasta da tecnologia apaixonado(a) por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
+### Olá, eu sou a Amanda Campos! 🤍
 
-## Sobre Mim
+ Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma entusiasta da tecnologia apaixonada por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
 
-- 🌐 Explorando o vasto universo da web.
-- 💡 Aprendendo algo novo a cada dia.
-- 🚀 Compartilhando conhecimento e experiências.
+**Sobre Mim**
 
-## Habilidades
+- 😊 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Engenharia** na Universidade de Brasília.
+- 💼 Trabalhando com Inteligência Artificial no AIlAB
+- 🌱 &nbsp; Aprendendo mais sobre **ETL (Extract, Transform, Load),Machine leraning e tecnologias de desenvolvimento de front-end como distração**.
 
-- 💻 Linguagens: [Liste aqui as linguagens que você domina].
+**Habilidades**
+
+- 💻 Linguagens: Python, Java, HTML, CSS.
 - 🛠️ Tecnologias: [Liste aqui as tecnologias com as quais você trabalha].
 - 🌐 Web: [Frameworks, bibliotecas e ferramentas para desenvolvimento web].
 
-## Projetos Destacados
+<p align="left">
 
-- [Nome do Projeto](link-para-o-projeto): Breve descrição.
-- [Outro Projeto Legal](link-para-o-projeto): Uma frase instigante sobre o projeto.
+[![iuricode](https://github-readme-stats.vercel.app/api?username=acamposs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Estatísticas do GitHub
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=acamposs&show_icons=true&count_private=true&hide=prs,issues,contribs)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-## Entre em Contato
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
-- 🐦 Twitter: [@seu_usuario_twitter](https://twitter.com/seu_usuario_twitter)
-- 📧 E-mail: seu.email@example.com
-- 💼 LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seu-nome/)
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
-## Obrigado por Visitar!
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 
-Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🚀
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
+**Obrigado por Visitar!**
+
+Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
