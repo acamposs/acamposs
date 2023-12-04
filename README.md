@@ -56,4 +56,4 @@
 
 Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
 
-![Snake animation](ttps://github.com/acamposs/acamposs/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/acamposs/acamposs/blob/output/github-contribution-grid-snake.svg)
