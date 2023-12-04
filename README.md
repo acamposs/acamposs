@@ -8,12 +8,12 @@
 </p>
 
 ### **Sobre Mim**
-
-- 😊 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Engenharia** na Universidade de Brasília.
-- 💼 Trabalhando com Inteligência Artificial no AIlAB
-- 🌱 &nbsp; Aprendendo mais sobre **ETL (Extract, Transform, Load),Machine leraning e tecnologias de desenvolvimento de front-end como distração**.
-
+<p align="left">
+ 😊 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+ 🎓 Estudando <strong>Engenharia</strong>strong> na Universidade de Brasília.<br>
+ 💼 Trabalhando com Inteligência Artificial no AIlAB<br>
+ 🌱 &nbsp; Aprendendo mais sobre **ETL (Extract, Transform, Load),Machine leraning e tecnologias de desenvolvimento de front-end como distração**.
+ </p>
 ### **Habilidades**
 
 - 💻 Linguagens: Python, Java, HTML, CSS.
