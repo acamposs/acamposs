@@ -16,13 +16,11 @@
 - 🛠️ Tecnologias: [Liste aqui as tecnologias com as quais você trabalha].
 - 🌐 Web: [Frameworks, bibliotecas e ferramentas para desenvolvimento web].
 
-<p align="left">
-
 [![iuricode](https://github-readme-stats.vercel.app/api?username=acamposs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
+<p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
