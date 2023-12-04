@@ -1,7 +1,9 @@
 
 ## Olá, eu sou a Amanda Campos! 🤍
 
- Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma entusiasta da tecnologia apaixonada por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
+
+Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma entusiasta da tecnologia apaixonada por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
 
 ### **Sobre Mim**
 
