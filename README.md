@@ -1,5 +1,5 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" style="margin-left: 30px; margin-bottom: 30px;" />
 
 ## Olá, eu sou a Amanda Campos! 🤍
 
@@ -11,7 +11,7 @@
 
 <p align="left">
  😊 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.<br>
- 🎓 &nbsp;Estudando <strong>Engenharia</strong> na Universidade de Brasília.<br>
+ 🎓 &nbsp;Estudando <strong>Engenharia Aeroespacial</strong> na Universidade de Brasília.<br>
  💼 &nbsp;Trabalhando com Inteligência Artificial no AILAB<br>
  🌱 &nbsp;Aprendendo mais sobre: <strong>ETL (Extract, Transform, Load), Machine learning e Data Science</strong>
  </p>
@@ -38,9 +38,6 @@
 <p>&nbsp;</p>
 
 <p align="center">
- 
-  <a href="mailto:amanda.acampos2000@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/amanda-acampos/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
