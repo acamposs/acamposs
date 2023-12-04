@@ -21,7 +21,7 @@ Bem-vindo ao meu cantinho no GitHub! Sou [Seu Nome], um(a) entusiasta da tecnolo
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=acamposs&show_icons=true&count_private=true&hide=prs,issues,contribs)
 
 ## Entre em Contato
 
