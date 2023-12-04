@@ -21,17 +21,17 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:amanda.acampos2000@gmail.com" alt="Gmail"/></a>
+  <a href="mailto:amanda.acampos2000@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-acampos/" alt="LinkedIn"/></a>
-
-  <a href="#" title="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/campossamanda" alt="Telegram"/></a>
-
-  <a href="#" title="Github">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/acamposs" alt="Github"/></a>
+  <a href="https://www.linkedin.com/in/amanda-acampos/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="https://t.me/campossamanda" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://github.com/acamposs" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
   <a href="https://www.instagram.com/campossamanda" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
