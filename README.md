@@ -16,9 +16,13 @@
 - 🛠️ Tecnologias: [Liste aqui as tecnologias com as quais você trabalha].
 - 🌐 Web: [Frameworks, bibliotecas e ferramentas para desenvolvimento web].
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=acamposs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="#" title="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=acamposs&theme=dracula" alt="card stats"/></a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#" title="liguages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula" alt="card linguagens"/></a>
+</p>
 
 <p align="center">
   <a href="mailto:amanda.acampos2000@gmail.com" target="_blank">
