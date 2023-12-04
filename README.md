@@ -56,4 +56,17 @@
 
 Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fwd5qnbuxh4xoj6ao65edjl5km&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31fwd5qnbuxh4xoj6ao65edjl5km&redirect=true)
+<p>&nbsp;</p>
+
+<p align="center">
+  <a <strong>O que estou ouvindo</strong> </a>
+  <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" target="_blank">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50"></a>
+</p>  
+<p align="center">
+
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31fwd5qnbuxh4xoj6ao65edjl5km&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fwd5qnbuxh4xoj6ao65edjl5km&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank"></a>
+</p>
+  
+
