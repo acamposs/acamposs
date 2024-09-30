@@ -12,7 +12,8 @@
 <p align="left">
  😊 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.<br>
  🎓 &nbsp;Estudando <strong>Engenharia Aeroespacial</strong> na Universidade de Brasília.<br>
- 💼 &nbsp;Trabalhando com Inteligência Artificial no AILAB<br>
+ 💼 &nbsp;Aluna Pesquisadora em Inteligência Artificial no AILAB<br>
+  💼 &nbsp;Estagiária Back-end Python e Front-end JS no Tribunal de Contas do Distrito Federal - TCDF<br>
  🌱 &nbsp;Aprendendo mais sobre: <strong>ETL (Extract, Transform, Load), Machine learning e Data Science</strong>
  </p>
  
