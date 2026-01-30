@@ -1,28 +1,55 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" style="margin-left: 30px; margin-bottom: 30px;" />
 
-## Olá, eu sou a Amanda Campos! 🤍
+### Olá, eu sou a Amanda Campos! 🤍
 
 <p align="left">
-  Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma entusiasta da tecnologia apaixonada por transformar linhas de código em soluções incríveis. Aqui você encontrará uma mistura de projetos, ideias malucas e talvez até um pouco de poesia de programação.
+  Bem-vindo ao meu cantinho no GitHub! Sou Amanda, uma desenvolvedora com foco em <strong>Engenharia de Software, Dados e Inteligência Artificial</strong>, apaixonada por transformar problemas complexos em soluções bem pensadas, escaláveis e com impacto real.
 </p>
 
 ### **Sobre Mim**
 
 <p align="left">
- 😊 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.<br>
- 🎓 &nbsp;Estudando <strong>Engenharia Aeroespacial</strong> na Universidade de Brasília.<br>
- 💼 &nbsp;Aluna Pesquisadora em Inteligência Artificial no AILAB<br>
-  💼 &nbsp;Estagiária Back-end Python e Front-end JS no Tribunal de Contas do Distrito Federal - TCDF<br>
- 🌱 &nbsp;Aprendendo mais sobre: <strong>ETL (Extract, Transform, Load), Machine learning e Data Science</strong>
+👩‍💻 &nbsp;Desenvolvedora com experiência em <strong>backend, dados e IA aplicada</strong>.<br>
+🎓 &nbsp;Graduanda em <strong>Engenharia de Software</strong> pela Universidade de Brasília (UnB).<br>
+🔬 &nbsp;Experiência com <strong>pesquisa e projetos em Inteligência Artificial</strong>, incluindo RAG e LLMs.<br>
+📊 &nbsp;Atuação forte em <strong>engenharia de dados, ETL, automação e pipelines</strong>.<br>
+🧠 &nbsp;Interesse especial em <strong>sistemas bem arquitetados, produtos orientados a dados e IA responsável</strong>.<br>
+🌱 &nbsp;Em constante evolução técnica e pessoal: aprender faz parte do processo!
  </p>
  
 ### **Habilidades**
 
 <p align="left">
-💻 &nbsp; Linguagens: Python, Java, HTML, CSS.<br>
-🛠️ &nbsp; Tecnologias: mySQL, rabbitMQ, MLflow, Maven, Docker.<br>
-🌐 &nbsp; Machine learning: Scikit-learn (Python), XGBoost (Python/R/Java), LightGBM (Python/R/Java), Kaggle (plataforma legal para cientistas de dados :) )
+💻 <strong>Linguagens</strong><br>
+Python · Java · JavaScript · TypeScript · SQL  
+
+🧩 <strong>Backend & APIs</strong><br>
+FastAPI · Django · REST · Integrações de serviços  
+
+📊 <strong>Dados & Engenharia</strong><br>
+ETL · Data Modeling · PostgreSQL · MySQL · Pandas · Airflow  
+
+🤖 <strong>IA & Machine Learning</strong><br>
+Scikit-learn · MLflow · RAG (RAGFlow) · LLMs · Classificação de texto  
+
+🐳 <strong>DevOps & Infra</strong><br>
+Docker · Docker Compose · Git · CI/CD  
+
+🎨 <strong>Frontend</strong><br>
+React · Next.js · Vite · HTML · CSS  
+
+🧠 <strong>Certificado Aiflow</strong><br>
+[Certificado](https://www.credly.com/badges/0ee2246c-6bce-4b87-9d6c-7a36f6108851/linked_in?t=t45hb4)
+</p>
+
+### Alguns temas que você vai ver por aqui
+
+- Engenharia de Dados na prática  
+- Projetos com IA aplicada e RAG  
+- Sistemas backend bem estruturados  
+- Automação e produtividade  
+- Projetos acadêmicos e experimentais 
 
  </p>
  
