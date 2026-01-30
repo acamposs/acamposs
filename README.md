@@ -39,8 +39,7 @@ Docker · Docker Compose · Git · CI/CD
 🎨 <strong>Frontend</strong><br>
 React · Next.js · Vite · HTML · CSS  
 
-🧠 <strong>Certificado Aiflow</strong><br>
-[Certificado](https://www.credly.com/badges/0ee2246c-6bce-4b87-9d6c-7a36f6108851/linked_in?t=t45hb4)
+🧠 [<strong>Certificado Aiflow</strong>](https://www.credly.com/badges/0ee2246c-6bce-4b87-9d6c-7a36f6108851/linked_in?t=t45hb4)
 </p>
 
 ### Alguns temas que você vai ver por aqui
@@ -52,18 +51,10 @@ React · Next.js · Vite · HTML · CSS
 - Projetos acadêmicos e experimentais 
 
  </p>
- 
-<p>&nbsp;</p>
 
-<p align="center">
-  <a href="#" title="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=acamposs&theme=dracula" alt="card stats"/></a>
+ **Obrigado por Visitar!**
 
-  <a href="#" title="liguages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamposs&hide=html&layout=compact&theme=dracula" alt="card linguagens"/></a>
-</p>
-
-<p>&nbsp;</p>
+Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
 
 <p align="center">
 
@@ -80,9 +71,7 @@ React · Next.js · Vite · HTML · CSS
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-**Obrigado por Visitar!**
 
-Espero que você encontre algo interessante nos meus repositórios. Sinta-se à vontade para explorar, abrir issues, contribuir ou simplesmente dizer "olá". Vamos construir algo incrível juntos! 🤍
 
 <p align="center">
   <strong>O que estou ouvindo agora</strong>
