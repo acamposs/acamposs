@@ -11,7 +11,7 @@
 
 <p align="left">
 👩‍💻 &nbsp;Desenvolvedora com experiência em <strong>backend, dados e IA aplicada</strong>.<br>
-🎓 &nbsp; Estudante de Tecnologia: <strong>Engenharia de Software</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong> 
+🎓 &nbsp; Estudante de Tecnologia: <strong>Engenharia de Software</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
 🔬 &nbsp;Experiência com <strong>pesquisa e projetos em Inteligência Artificial</strong>, incluindo RAG e LLMs.<br>
 📊 &nbsp;Atuação forte em <strong>engenharia de dados, ETL, automação e pipelines</strong>.<br>
 🧠 &nbsp;Interesse especial em <strong>sistemas bem arquitetados, produtos orientados a dados e IA responsável</strong>.<br>
